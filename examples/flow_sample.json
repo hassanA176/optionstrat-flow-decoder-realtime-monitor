@@ -1,0 +1,22 @@
+[
+  {
+    "symbol": "SPX",
+    "strategy": "Buy 5300 Call",
+    "strike": 5300,
+    "option_type": "call",
+    "expiration": "2026-12-18",
+    "flow_date": "2026-10-31",
+    "time": "10:15 am",
+    "premium": 125000
+  },
+  {
+    "symbol": "AAPL",
+    "strategy": "Sell 250 Put To Open",
+    "strike": 250,
+    "option_type": "put",
+    "expiration": "2026-11-20",
+    "flow_date": "2026-10-31",
+    "time": "10:17 am",
+    "premium": 48000
+  }
+]
